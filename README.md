@@ -34,7 +34,8 @@
 </table>
 
 
-## 🚀 *Tech Stack*
+## 🚀 Tech Stack
+
 <table>
   <tr>
     <td align="center"><b>📜 Programming & Query Languages</b></td>
@@ -42,15 +43,17 @@
   </tr>
   <tr>
     <td align="center">
-      <abbr title="Python"><img src="https://skillicons.dev/icons?i=python" /></abbr>
-      <abbr title="SQL"><img src="https://skillicons.dev/icons?i=mysql" /></abbr>
+      <abbr title="Python"><img src="https://skillicons.dev/icons?i=python" height="40"/></abbr>
+      <abbr title="SQL"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></abbr>
     </td>
     <td align="center">
-      <abbr title="Tableau"><img src="https://skillicons.dev/icons?i=tableau" /></abbr>
-      <abbr title="Power BI"><img src="https://skillicons.dev/icons?i=powerbi" /></abbr>
+      <abbr title="Tableau"><img src="https://skillicons.dev/icons?i=tableau" height="40"/></abbr>
+      <abbr title="Power BI"><img src="https://skillicons.dev/icons?i=powerbi" height="40"/></abbr>
     </td>
   </tr>
 </table>
+
+<br/>
 
 <table>
   <tr>
@@ -59,17 +62,15 @@
   </tr>
   <tr>
     <td align="center">
-      <abbr title="AWS"><img src="https://skillicons.dev/icons?i=aws" /></abbr>
-      <abbr title="CloudFormation Templates"><img src="https://skillicons.dev/icons?i=terraform" /></abbr>
+      <abbr title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="40"/></abbr>
+      <abbr title="CloudFormation Templates (via Terraform icon)"><img src="https://skillicons.dev/icons?i=terraform" height="40"/></abbr>
     </td>
     <td align="center">
-      <abbr title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" /></abbr>
-      <abbr title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></abbr>
+      <abbr title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" height="40"/></abbr>
+      <abbr title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/></abbr>
     </td>
   </tr>
 </table>
-
----
 
 ## 📊 *GitHub Stats*
 <table>
