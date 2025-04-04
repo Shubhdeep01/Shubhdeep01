@@ -13,29 +13,26 @@
 
 ---
 
-## 📌 *About Me*
+## 📌 About Me
+
 <table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>📊 Passionate about <b>Data Analytics, SQL & Visualization</b></li>
-        <li>🔍 Exploring <b>Python, Tableau & AWS</b> for data-driven insights</li>
-        <li>🌱 <b>Currently Learning:</b>
-          <ul>
-            <li>☁ <b>AWS & CloudFormation Templates (CFT)</b></li>
-            <li>📈 <b>Advanced Data Analytics & SQL Optimization</b></li>
-          </ul>
-        </li>
-        <li>🤝 Open to collaborating on <b>Data Analytics Projects</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+- 📊 Passionate about **Data Analytics, SQL & Visualization**  
+- 🔍 Exploring **Python, Tableau & AWS** to uncover data-driven insights  
+- 🌱 **Currently Learning:**
+  - ☁ **AWS & CloudFormation Templates (CFT)**
+  - 📈 **Advanced Data Analytics & SQL Optimization**
+- 🤝 Open to collaborating on **exciting Data Analytics projects**
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Data GIF"/>
+</td>
+</tr>
 </table>
 
----
 
 ## 🚀 *Tech Stack*
 <table>
