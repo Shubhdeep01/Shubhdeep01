@@ -153,15 +153,7 @@
 
 <br/>
 
-## 🏆 &nbsp; GitHub Trophies
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhdeep01&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12"/>
-</div>
-
-<br/>
 
 ---
 
