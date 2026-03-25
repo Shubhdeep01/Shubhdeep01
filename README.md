@@ -151,13 +151,7 @@
 
 ---
 
-<br/>
 
-
-
----
-
-<br/>
 
 ## 📈 &nbsp; Skill Levels
 
